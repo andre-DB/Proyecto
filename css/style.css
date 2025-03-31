@@ -669,3 +669,8 @@ a{
     }
 
 }
+
+.logo {
+    animation: logo 1.5s ease-in-out infinite;
+}
+
