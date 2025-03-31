@@ -654,7 +654,7 @@ a{
     margin-left: 40px;
 }
 
-@keyframes header {
+@keyframes logo {
 
     0%{
         transform: translateY(0);
